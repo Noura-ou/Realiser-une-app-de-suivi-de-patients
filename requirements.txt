@@ -1,0 +1,9 @@
+pandas
+texthero
+seaborn
+nbformat>=4.2.0
+sklearn
+matplotlib
+Faker
+elasticsearch
+flask
